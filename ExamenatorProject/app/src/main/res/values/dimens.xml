@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_button">30dp</dimen>
+    <dimen name="marginBottomTop_button">10dp</dimen>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="button_que_main_size">65dp</dimen>
+    <dimen name="margin_button_que_side">5dp</dimen>
+    <dimen name="margin_button_que_top">15dp</dimen>
+
+</resources>
+
+

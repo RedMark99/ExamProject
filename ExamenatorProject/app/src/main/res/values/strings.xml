@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExamenatorProject</string>
+    <string name="button_random">Случайный билет</string>
+    <string name="button_question">Случайный вопрос</string>
+</resources>

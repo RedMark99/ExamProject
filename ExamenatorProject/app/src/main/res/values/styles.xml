@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="ButtonQueMain" parent="Widget.AppCompat.Button">
+
+        <item name="android:layout_width">@dimen/button_que_main_size</item>
+        <item name="android:layout_height">@dimen/button_que_main_size</item>
+        <item name="android:text">@string/button_question</item>
+        <item name="android:layout_marginLeft">@dimen/margin_button</item>
+        <item name="android:layout_marginRight">@dimen/margin_button</item>
+        <item name="android:textSize">@dimen/text_size</item>
+        <item name="fontFamily">@font/brusdi</item>
+
+    </style>
+
+</resources>
